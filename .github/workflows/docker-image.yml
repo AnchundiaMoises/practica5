@@ -54,5 +54,4 @@ jobs:
         docker push moisesa/practica5:$NEW_VERSION
         docker push moisesa/practica5:latest
 
-
-        #prueba cambio
+  # - explicación: Subir imagen al docker hub 
